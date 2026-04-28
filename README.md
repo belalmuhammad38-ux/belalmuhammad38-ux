@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Computational Chemistry.<br>I am an Analytical Chemistry Student<br>I study in University of Agriculture of Faisalabad.<br>Chemicals and Computer
+I'm currently working on Computational Chemistry, Material Chemistry, ElecctroChemistry.<br>I am an Analytical Chemistry Student<br>I study in University of Agriculture of Faisalabad.<br>Chemicals and Computer
 
 
 ## 🌐 Socials:
